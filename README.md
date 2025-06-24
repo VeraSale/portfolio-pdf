@@ -3,7 +3,7 @@
 
 Welcome! This portfolio highlights a selection of my work at the intersection of sustainability, behavioral science, and product strategy. It includes case studies, prototypes, and design thinking processes from projects ranging from:
 
-    Climate tech and GHG emissions modeling tools
+    Impact analysis and GHG emissions modeling tools
 
     Behaviorally-informed UX research and design
 

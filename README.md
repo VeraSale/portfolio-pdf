@@ -1,4 +1,4 @@
-# portfolio-pdf
+# portfolio-ppt.
 ✨ UX/UI & Product Design Portfolio
 
 Welcome! This portfolio highlights a selection of my work at the intersection of sustainability, behavioral science, and product strategy. It includes case studies, prototypes, and design thinking processes from projects ranging from:
